@@ -1,0 +1,1 @@
+sonar-scanner  -D"sonar.projectKey=testeReactLogin" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" -D"sonar.login=3e1be395ee9b4b21afc70d88c9efca7ebcf1f4b0"
